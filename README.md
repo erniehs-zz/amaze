@@ -23,6 +23,10 @@ generally a good idea to have a maze with odd number for width, height.  does no
 
 see demo
 
+<center>
+<div style='background-color: black;'>
 ![a maze...](demo/demo.png)
+</div>
+</center>
 
 no, it's not particularly amazing either...
