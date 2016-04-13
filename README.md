@@ -23,4 +23,6 @@ generally a good idea to have a maze with odd number for width, height.  does no
 
 see demo
 
+![a maze...](demo/demo.png)
+
 no, it's not particularly amazing either...
