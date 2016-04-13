@@ -23,6 +23,6 @@ generally a good idea to have a maze with odd number for width, height.  does no
 
 see demo
 
-<iframe src='https://github.com/erniehs/amaze/edit/master/demo/index.html'></iframe>
+
 
 no, it's not particularly amazing either...
