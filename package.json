@@ -1,5 +1,5 @@
 {
-  "name": "amaze",
+  "name": "amazejs",
   "version": "1.0.0",
   "description": "a simple maze generator",
   "main": "index.js",
