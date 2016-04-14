@@ -7,7 +7,7 @@ generally a good idea to have a maze with odd number for width, height.  does no
 
 ```javascript
 
-  var maze = require('maze');
+  var maze = require('amazejs');
 
   var m = new maze.Backtracker(33, 33);
   m.generate();
