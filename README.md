@@ -23,7 +23,6 @@ generally a good idea to have a maze with odd number for width, height.  does no
 
 see demo
 
-![a maze...]
-(https://raw.githubusercontent.com/erniehs/amaze/master/demo/demo.png)
+![a maze...](https://raw.githubusercontent.com/erniehs/amaze/master/demo/demo.png)
 
 no, it's not particularly amazing either...
