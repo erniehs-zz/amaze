@@ -14,7 +14,7 @@ generally a good idea to have a maze with odd number for width, height.  does no
 
   var start = [1, 1];
   var end = [31, 31];
-  var soln = m.solve(start, finish);
+  var soln = m.solve(start, end);
 
   ...
 ```
