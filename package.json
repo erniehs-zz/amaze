@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/erniehs/amaze#readme",
   "dependencies": {
-    "priorityjs": "^1.2.2"
+    "priorityjs": "^1.2.3"
   },
   "devDependencies": {
     "browserify": "^13.0.0",
